@@ -1,4 +1,4 @@
-<h1> Drug Classification (Kaggle) - ML Python Project</h1>
+<h1>Drug Classification using Machine Learning in Python on Kaggle</h1>
 <br>
 <h2>Features</h2>
 <ul>
